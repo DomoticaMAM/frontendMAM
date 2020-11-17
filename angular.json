@@ -122,6 +122,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "frontendMAM"
+    }
+  },
+  "defaultProject": "frontendMAM",
+  "cli": {
+    "analytics": "c20c0d58-c249-44c1-a0ce-0be3af08e967"
+  }
 }

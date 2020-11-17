@@ -1,6 +1,9 @@
 # FrontendMAM
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.26.
+Update to Angular CLI: 11.0.1
+Trato de usar el codigo de adminKit.
+
 
 ## Development server
 
